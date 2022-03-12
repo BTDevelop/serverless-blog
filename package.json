@@ -18,7 +18,7 @@
   "homepage": "https://serverless.com/blog",
   "devDependencies": {},
   "dependencies": {
-    "gray-matter": "^4.0.2",
+    "gray-matter": "^4.0.3",
     "markdown-magic": "^0.1.25"
   }
 }
