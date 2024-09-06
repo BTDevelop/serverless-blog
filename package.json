@@ -19,6 +19,6 @@
   "devDependencies": {},
   "dependencies": {
     "gray-matter": "^4.0.2",
-    "markdown-magic": "^0.1.25"
+    "markdown-magic": "^2.3.0"
   }
 }
